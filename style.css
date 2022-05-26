@@ -1,0 +1,50 @@
+.foto{
+    border: 1px solid green;
+    border-radius: 50%;
+}
+body{
+    background-color: rgb(155, 150, 150);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.post{
+    background-color: white;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 10px;
+}
+#tituloprincipal, .subtitle, .posttitle{
+    color: rgb(81, 81, 83);
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+
+}
+.posttitle{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+.post_content{
+    margin: 0px;
+    margin-bottom: 15px;
+
+}
+.cabecalho{
+    background-color: white;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 10px;
+}
+.list{
+    list-style-type: square, none;
+    padding: 0;
+    padding-left: 15px;
+    font-trans
+
+}
+.lista li a{
+    text-decoration: none;
+}
